@@ -13,8 +13,8 @@ mmengine           0.5.0.
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/47024870/218030426-abc72fd8-e918-418f-a846-00f8e98fbf60.png">
 2023-02-09 20:06:34,582 - mmdet - INFO - Exp name: mask-rcnn_r50_fpn_1x_ballon_decent.py  
 2023-02-09 20:06:34,582 - mmdet - INFO - Epoch(val) [20][13]	 
-bbox_mAP: 0.7479, bbox_mAP_50: 0.8858, bbox_mAP_75: 0.8697, bbox_mAP_s: 0.4545, bbox_mAP_m: 0.6645, bbox_mAP_l: 0.7892, bbox_mAP_copypaste: 0.7479 0.8858 0.8697 0.4545 0.6645 0.7892, segm_mAP: 0.7822,   
-segm_mAP_50: 0.8697, segm_mAP_75: 0.8697, segm_mAP_s: 0.0673, segm_mAP_m: 0.6249, segm_mAP_l: 0.8376, segm_mAP_copypaste: 0.7822 0.8697 0.8697 0.0673 0.6249 0.8376  
+bbox_mAP: 0.7479, bbox_mAP_50: 0.8858, bbox_mAP_75: 0.8697, bbox_mAP_s: 0.4545, bbox_mAP_m: 0.6645, bbox_mAP_l: 0.7892, bbox_mAP_copypaste: 0.7479 0.8858 0.8697 0.4545 0.6645 0.7892,     
+segm_mAP: 0.7822, segm_mAP_50: 0.8697, segm_mAP_75: 0.8697, segm_mAP_s: 0.0673, segm_mAP_m: 0.6249, segm_mAP_l: 0.8376, segm_mAP_copypaste: 0.7822 0.8697 0.8697 0.0673 0.6249 0.8376  
 
 # 测试结果
 
