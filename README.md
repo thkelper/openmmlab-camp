@@ -13,6 +13,7 @@ mmengine           0.5.0.
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/47024870/218030426-abc72fd8-e918-418f-a846-00f8e98fbf60.png">
 2023-02-09 20:06:34,582 - mmdet - INFO - Exp name: mask-rcnn_r50_fpn_1x_ballon_decent.py  
 2023-02-09 20:06:34,582 - mmdet - INFO - Epoch(val) [20][13]	 
+
 bbox_mAP: 0.7479,   
 bbox_mAP_50: 0.8858,  
 bbox_mAP_75: 0.8697,  
